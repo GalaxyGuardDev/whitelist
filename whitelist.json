@@ -2,7 +2,7 @@
     {
         "Rank": "INF",
         "Attackable": false,
-        "TagText": "RENDER INF",
+        "TagText": "TENACITY INF",
         "TagColor": "0047AB",
         "TagHidden": false,
         "Accounts": []
@@ -10,32 +10,27 @@
     {
         "Rank": "INF",
         "Attackable": false,
-        "TagText": "SALAD",
+        "TagText": "cool sigma",
         "TagColor": "A020F0",
         "TagHidden": false,
         "Accounts": [
             null,
-            "bestyapperfrfr"
+            "nn"
         ]
     },
     {
         "Rank": "INF",
         "Attackable": false,
-        "TagText": "VOIDWARE OWNER",
+        "TagText": "TENACITY OWNER",
         "TagColor": "0047AB",
         "TagHidden": false,
         "Accounts": [
             null,
-            "Ercobg6",
-            "Ercobg7",
-            "Erchobg",
-            "Ercobg8",
-            "Ercobg9",
-            "Ercobg10",
-            "sdfsdfl1",
-            "sdkhksd4",
-            "dslksdf8",
-            "Erchobg"
+            "SkibidiGyattRizz554",
+            "nn",
+            "nn",
+            "nn",
+            "nn",
         ] 
     }
 ]
