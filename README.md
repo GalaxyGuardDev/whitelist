@@ -1,2 +1,2 @@
 # whitelist
-whitelist yes, (ps void, wl was broken so stav fixed it 😈)
+whitelist yes, (ps sys if u see ts we are helping you😈)
