@@ -2,10 +2,10 @@
     {
         "Rank": "INF",
         "Attackable": false,
-        "TagText": "TENACITY INF",
+        "TagText": "GALAXYGUARD INF",
         "TagColor": "0047AB",
         "TagHidden": false,
-        "Accounts": []
+        "Accounts": "bedwarzisassloool",
     },
     {
         "Rank": "INF",
@@ -21,12 +21,12 @@
     {
         "Rank": "INF",
         "Attackable": false,
-        "TagText": "TENACITY OWNER",
+        "TagText": "GALAXYGUARD OWNER",
         "TagColor": "0047AB",
         "TagHidden": false,
         "Accounts": [
             null,
-            "SkibidiGyattRizz554",
+            "the biggest no name of them all",
             "nn",
             "nn",
             "nn",
